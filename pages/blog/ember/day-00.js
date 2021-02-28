@@ -17,7 +17,7 @@ export default class extends Component {
 		return (
 			<div className="layout-wrapper">
 				<HeadMetadata
-					title="Your Blog Post Title | Billy's Blog"
+					title="Building a 3D Engine, Ember: Day 00 | Billy's Blog"
 					metaDescription="Your Blog Post Description."
 				/>
 				<Header />
