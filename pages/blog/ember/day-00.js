@@ -42,7 +42,7 @@ In XAML UWP apps, we will use a byte[] array that will act as our dynamic <b>bac
 						
 						<div className="blog-post-body-code-snippet">
 							<pre className="line-numbers language-csharp">
-								<code className="cs language-csharp">
+								<code className="csharp language-csharp">
 									{
 										`
 											CompositTarget.Rendering += CompositionTarget_Rendering;
@@ -58,7 +58,7 @@ In XAML UWP apps, we will use a byte[] array that will act as our dynamic <b>bac
 
 						<div className="blog-post-body-code-snippet">
 							<pre className="line-numbers language-csharp">
-								<code className="cs language-csharp">
+								<code className="csharp language-csharp">
 									{
 										`
 											public class Camera
@@ -76,7 +76,7 @@ In XAML UWP apps, we will use a byte[] array that will act as our dynamic <b>bac
 
 						<div className="blog-post-body-code-snippet">
 							<pre className="line-numbers language-csharp">
-								<code className="cs language-csharp">
+								<code className="csharp language-csharp">
 									{
 										`
 											public class Mesh
@@ -102,7 +102,7 @@ In XAML UWP apps, we will use a byte[] array that will act as our dynamic <b>bac
 
 						<div className="blog-post-body-code-snippet">
 							<pre className="line-numbers language-csharp">
-								<code className="cs language-csharp">
+								<code className="csharp language-csharp">
 									{
 										`
 											var mesh = new Mesh("Cube", 8);
@@ -127,7 +127,7 @@ In XAML UWP apps, we will use a byte[] array that will act as our dynamic <b>bac
 
 						<div className="blog-post-body-code-snippet">
 							<pre className="line-numbers language-csharp">
-								<code className="cs language-csharp">
+								<code className="csharp language-csharp">
 									{
 										`
 											var transformMatrix = worldMatrix * viewMatrix * projectionMatrix;
@@ -141,7 +141,7 @@ In XAML UWP apps, we will use a byte[] array that will act as our dynamic <b>bac
 						
 						<div className="blog-post-body-code-snippet">
 							<pre className="line-numbers language-csharp">
-								<code className="cs language-csharp">
+								<code className="csharp language-csharp">
 									{
 										`
 											public void PutPixel(int x, int y, Color4 color)
@@ -181,7 +181,7 @@ In XAML UWP apps, we will use a byte[] array that will act as our dynamic <b>bac
 
 						<div className="blog-post-body-code-snippet">
 							<pre className="line-numbers language-csharp">
-								<code className="cs language-csharp">
+								<code className="csharp language-csharp">
 									{
 										`
 											private Device device;
