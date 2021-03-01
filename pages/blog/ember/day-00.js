@@ -238,9 +238,6 @@ In XAML UWP apps, we will use a byte[] array that will act as our dynamic <b>bac
 						<p>Next I will look into drawing lines between each vertex and the concept of faces or triangles.</p>
 						<p>That's it for day 0, it was a lot of fun, cya!</p>
 						
-						<blockquote>
-							Warning or special message that you want to stand out should be placed in this blockquote element.
-						</blockquote>
 					</div>
 				</div>
 				<Footer />
