@@ -1,6 +1,7 @@
 import { Component } from "react"
 import Prism from "prismjs"
 
+import "prismjs/components/prism-csharp.js"
 import "prismjs/plugins/line-numbers/prism-line-numbers.js"
 import "prismjs/plugins/normalize-whitespace/prism-normalize-whitespace.js"
 
