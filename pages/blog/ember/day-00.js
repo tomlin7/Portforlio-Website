@@ -37,8 +37,7 @@ export default class extends Component {
 						<p>I had an idea about building my own 3D engine, so decided to give it a go this time.</p>
 						<p><b>Universal Windows Platform</b> seemed a better choice for this project. Also I will be using some libraries that will do the job for me, <b>SharpDX</b>, a managed wrapper on top of DirectX. And For the time being, I named the project <i>SoftEngine</i>. Added the required nuget packges. And kicked off the project!</p>
 						<h4>The Engine's process in a Nutshell</h4>
-						<p>In the engine, we're rendering the complete scene during each frame with the hope of keeping an optimal 60 FPS to keep fluid animations. To do the rendering job, we need a back buffer. This could be seen as 2 dimensional array mapping the window size. Every cell of the array is mapped to a pixel on the screen.
-In XAML UWP apps, we will use a byte[] array that will act as our dynamic <b>back buffer</b>.</p>
+						<p>In the engine, we're rendering the complete scene during each frame with the hope of keeping an optimal 60 FPS to keep fluid animations. To do the rendering job, we need a back buffer. This could be seen as 2 dimensional array mapping the window size. Every cell of the array is mapped to a pixel on the screen.</p>
 						<p>In XAML UWP apps, we will use a byte[] array that will act as our dynamic <b>back buffer</b>. For every frame being rendered in the animation loop (tick),this buffer will be affected to a WritableBitmap acting as the source of a XAML image control that will be called <b>front buffer</b>. For the rendering loop, we're going to ask to the XAML rendering engine to call us every time it will generate. The registration is done like this</p>
 						
 						<div className="blog-post-body-code-snippet">
