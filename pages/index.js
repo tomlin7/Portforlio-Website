@@ -55,7 +55,7 @@ export default class extends Component {
                             <div className="homepage-project">
                                 <h3>
                                     <a href="https://github.com/billyeatcookies/Ember">
-                                        <div className="homepage-project-icon">⌛</div>
+                                        <div className="homepage-project-icon">🔥</div>
                                         <div className="homepage-project-title">Ember</div>
                                     </a>
                                 </h3>
@@ -67,40 +67,40 @@ export default class extends Component {
 
                             <div className="homepage-project">
                                 <h3>
-                                    <a href="https://github.com/billyeatcookies/untitled-compiler-project">
-                                        <div className="homepage-project-icon">⌛</div>
-                                        <div className="homepage-project-title">Untitled</div>
+                                    <a href="https://github.com/kookielang/Kookie">
+                                        <div className="homepage-project-icon">🍪</div>
+                                        <div className="homepage-project-title">kookielang/Kookie</div>
                                     </a>
                                 </h3>
                                 <p>Untitiled compiler project.</p>
                                 <div className="homepage-project-btns">
-                                    <a className="homepage-project-view-btn" href="https://github.com/billyeatcookies/untitled-compiler-project">View</a>
+                                    <a className="homepage-project-view-btn" href="https://github.com/kookielang/Kookie">View</a>
                                 </div>
                             </div>
 
                             <div className="homepage-project">
                                 <h3>
-                                    <a href="https://github.com/billyeatcookies/discord-chess">
-                                        <div className="homepage-project-icon">⌛</div>
-                                        <div className="homepage-project-title">Discord.Chess</div>
+                                    <a href="https://github.com/billyeatcookies/BILL">
+                                        <div className="homepage-project-icon">💿</div>
+                                        <div className="homepage-project-title">BILL</div>
                                     </a>
                                 </h3>
                                 <p>Chess module for Discord.py.</p>
                                 <div className="homepage-project-btns">
-                                    <a className="homepage-project-view-btn" href="https://github.com/billyeatcookies/discord-chess">View</a>
+                                    <a className="homepage-project-view-btn" href="https://github.com/billyeatcookies/BILL">View</a>
                                 </div>
                             </div>
 
                             <div className="homepage-project">
                                 <h3>
-                                    <a href="https://github.com/billyeatcookies/pastemyst-pas">
-                                        <div className="homepage-project-icon">⌛</div>
-                                        <div className="homepage-project-title">pastemyst.pas</div>
+                                    <a href="https://github.com/billyeatcookies/Kale">
+                                        <div className="homepage-project-icon">🥬</div>
+                                        <div className="homepage-project-title">Kale</div>
                                     </a>
                                 </h3>
                                 <p>An API wrapper for <a href="https://paste.myst.rs">PasteMyst</a>.</p>
                                 <div className="homepage-project-btns">
-                                    <a className="homepage-project-view-btn" href="https://github.com/billyeatcookies/pastemyst-pas">View</a>
+                                    <a className="homepage-project-view-btn" href="https://github.com/billyeatcookies/Kale">View</a>
                                 </div>
                             </div>
 
