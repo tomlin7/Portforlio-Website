@@ -59,7 +59,7 @@ export default class extends Component {
                                         <div className="homepage-project-title">Ember</div>
                                     </a>
                                 </h3>
-                                <p>3D Engine project.</p>
+                                <p>A primarily rendering engine</p>
                                 <div className="homepage-project-btns">
                                     <a className="homepage-project-view-btn" href="https://github.com/billyeatcookies/Ember">View</a>
                                 </div>
@@ -69,10 +69,10 @@ export default class extends Component {
                                 <h3>
                                     <a href="https://github.com/kookielang/Kookie">
                                         <div className="homepage-project-icon">🍪</div>
-                                        <div className="homepage-project-title">kookielang/Kookie</div>
+                                        <div className="homepage-project-title">Kookie</div>
                                     </a>
                                 </h3>
-                                <p>Untitiled compiler project.</p>
+                                <p>Crispy, Refined, Static compiled language!</p>
                                 <div className="homepage-project-btns">
                                     <a className="homepage-project-view-btn" href="https://github.com/kookielang/Kookie">View</a>
                                 </div>
@@ -85,7 +85,7 @@ export default class extends Component {
                                         <div className="homepage-project-title">BILL</div>
                                     </a>
                                 </h3>
-                                <p>Chess module for Discord.py.</p>
+                                <p>x64 Operating System</p>
                                 <div className="homepage-project-btns">
                                     <a className="homepage-project-view-btn" href="https://github.com/billyeatcookies/BILL">View</a>
                                 </div>
@@ -98,7 +98,7 @@ export default class extends Component {
                                         <div className="homepage-project-title">Kale</div>
                                     </a>
                                 </h3>
-                                <p>An API wrapper for <a href="https://paste.myst.rs">PasteMyst</a>.</p>
+                                <p>Compiler project, in python</a>.</p>
                                 <div className="homepage-project-btns">
                                     <a className="homepage-project-view-btn" href="https://github.com/billyeatcookies/Kale">View</a>
                                 </div>
