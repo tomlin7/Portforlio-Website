@@ -98,7 +98,7 @@ export default class extends Component {
                                         <div className="homepage-project-title">Kale</div>
                                     </a>
                                 </h3>
-                                <p>Compiler project, in python</a>.</p>
+                                <p>Compiler project, in python</p>
                                 <div className="homepage-project-btns">
                                     <a className="homepage-project-view-btn" href="https://github.com/billyeatcookies/Kale">View</a>
                                 </div>
