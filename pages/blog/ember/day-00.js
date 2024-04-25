@@ -240,6 +240,14 @@ export default class extends Component {
 						
 					</div>
 				</div>
+				<script src="https://utteranc.es/client.js"
+					repo="billyeatcookies/Ember"
+					issue-term="pathname"
+					label="Discussions"
+					theme="github-light"
+					crossorigin="anonymous"
+					async>
+				</script>
 				<Footer />
 			</div>
 		)
